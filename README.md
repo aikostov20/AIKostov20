@@ -11,15 +11,14 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/aikostov20?tab=repositories).
 - 📫 &nbsp; How to reach me: aikostov20@codingburgas.bg
 
+<hr/>
 ### Languages and Tools:
 
 <code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
-
-<hr>
-  
+ <hr/>
 ### Projects and Dev Stuffs:
 
 <details>	
