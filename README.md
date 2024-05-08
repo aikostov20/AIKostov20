@@ -4,7 +4,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 🚀 &nbsp; I’m currently learning HTML5, CSS3, Javascript and C++.
+- 🚀 &nbsp; I’m currently learning HTML5, CSS3, Javascript,C++,C#,React,Figma and Game Design.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/aikostov20?tab=repositories).
 - 📫 &nbsp; How to reach me: aikostov20@codingburgas.bg
 
